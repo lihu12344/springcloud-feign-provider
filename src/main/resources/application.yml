@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    consul:
+      host: 172.18.0.20
+      port: 8500
+  application:
+    name: hello-provider
